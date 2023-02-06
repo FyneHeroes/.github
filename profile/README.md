@@ -1,6 +1,6 @@
 Welcome to Fyne Heros, a special place where people gather to help direct the [Fyne](https://fyne.io) project.
 
-We appreciate everyones thoughts and input so far, please read on i fyou would like to know more.
+We appreciate everyones thoughts and input so far, please read on if you would like to know more.
 
 ## Why is this not in the Fyne project?
 
