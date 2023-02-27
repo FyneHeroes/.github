@@ -1,14 +1,19 @@
-Welcome to Fyne Heroes, a special place where people gather to help direct the [Fyne](https://fyne.io) project.
+Welcome to Fyne Heroes, a collection of people who help to direct the [Fyne](https://fyne.io) project.
+In this organisation you will find discussions about what is planned and what is new for the Fyne toolkit and lots of apps in the wider ecosystem.
 
-We appreciate everyones thoughts and input so far, please read on if you would like to know more.
+We appreciate everyones contributions so far, we will be updating this page as more is discussed.
+Read on if you would like to know more.
 
 ## Get involved
 
-Most discussions so far have been over social media - you can find various places to discuss on the Fyne [support page](https://fyne.io/support/).
+There is a roughly monthly email update of activity and ideas which is taken from the project but also from this community.
+If you would like to be kept up to date you can sign up to the Fyne Heroes mailing list below.
 
-For people who prefer email, and want to be kept up to date you can also sign up to the Fyne Heroes mailing list below.
+[<kbd> <br> 📫 Join the discussion 📫 <br> </kbd>](https://zcmp.eu/Gzx)
 
-[<kbd> <br> Start the conversation <br> </kbd>](https://zcmp.eu/Gzx)
+After signing up you can reply to messages to suggest ideas or future topics - contributors will be awarded "Fyne Hero" membership :smile:.
+Of course if you want to ask questions or get help using Fyne there are plenty of support channels open -
+see the Fyne [support page](https://fyne.io/support/).
 
 ## Why is this not in the Fyne project?
 
