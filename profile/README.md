@@ -9,7 +9,7 @@ Read on if you would like to know more.
 The following is an example of some content you can look forward to,
 but future emails will also be highlighting community activity and cool products we have found:
 
-![](welcome.png)
+![](profile/welcome.png)
 
 
 ## Get involved
