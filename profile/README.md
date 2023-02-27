@@ -4,6 +4,14 @@ In this organisation you will find discussions about what is planned and what is
 We appreciate everyones contributions so far, we will be updating this page as more is discussed.
 Read on if you would like to know more.
 
+## Preview
+
+The following is an example of some content you can look forward to,
+but future emails will also be highlighting community activity and cool products we have found:
+
+![](welcome.png)
+
+
 ## Get involved
 
 There is a roughly monthly email update of activity and ideas which is taken from the project but also from this community.
