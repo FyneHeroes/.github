@@ -4,16 +4,10 @@ In this organisation you will find discussions about what is planned and what is
 We appreciate everyones contributions so far, we will be updating this page as more is discussed.
 Read on if you would like to know more.
 
-## Preview
-
-The following is an example of some content you can look forward to,
-but future emails will also be highlighting community activity and cool products we have found:
-
-![](profile/welcome.png)
-
 ## Archive
 
 * 1: **Hello Heroes!** Steam deck utilities, Helios and Fyne v2.3.2 [read now](https://fyneheroes.github.io/archive/1/)
+* 2: **Ma(n)y advances in Fyne!** Electronic Medical records and Fyne 2.4 previews [read now](https://fyneheroes.github.io/archive/2/)
 
 ## Get involved
 
