@@ -8,6 +8,7 @@ Read on if you would like to know more.
 
 * 1: **Hello Heroes!** Steam deck utilities, Helios and Fyne v2.3.2 [read now](https://fyneheroes.github.io/archive/1/)
 * 2: **Ma(n)y advances in Fyne!** Electronic Medical records and Fyne 2.4 previews [read now](https://fyneheroes.github.io/archive/2/)
+* 3: **A busy summer and bumper release for Fyne** [read now](https://fyneheroes.github.io/archive/3/)
 
 ## Get involved
 
